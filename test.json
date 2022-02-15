@@ -1,0 +1,4 @@
+{
+   "DirectoryPath": "PATH_TO_DIRECTORY",
+   "FilesToLocate": [ "FILE_NAME_1", "FILE_NAME_2"]
+}
